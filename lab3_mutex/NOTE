@@ -1,0 +1,7 @@
+For complie the code:
+Run the following commands in Terminal:
+
+1: >make clean
+2: >make
+3: >threadpro
+
